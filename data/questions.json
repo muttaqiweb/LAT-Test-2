@@ -1,0 +1,5102 @@
+[
+ {
+  "id": "ENG-001",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"benevolent\":",
+  "options": [
+   "unstable",
+   "scarce",
+   "friendly",
+   "kind"
+  ],
+  "correct": 3,
+  "explanation": "\"benevolent\" means kind.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-002",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"candid\":",
+  "options": [
+   "slow",
+   "cheerful",
+   "permanent",
+   "frank"
+  ],
+  "correct": 3,
+  "explanation": "\"candid\" means frank.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-003",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"diligent\":",
+  "options": [
+   "concise",
+   "cowardly",
+   "hardworking",
+   "false"
+  ],
+  "correct": 2,
+  "explanation": "\"diligent\" means hardworking.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-004",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"eminent\":",
+  "options": [
+   "slow",
+   "decisive",
+   "naive",
+   "distinguished"
+  ],
+  "correct": 3,
+  "explanation": "\"eminent\" means distinguished.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-005",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"frugal\":",
+  "options": [
+   "unfortunate",
+   "thrifty",
+   "sturdy",
+   "foolish"
+  ],
+  "correct": 1,
+  "explanation": "\"frugal\" means thrifty.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-006",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"obsolete\":",
+  "options": [
+   "clear",
+   "strict",
+   "outdated",
+   "expert"
+  ],
+  "correct": 2,
+  "explanation": "\"obsolete\" means outdated.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-007",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"ambiguous\":",
+  "options": [
+   "strict",
+   "unclear",
+   "defeat",
+   "scarce"
+  ],
+  "correct": 1,
+  "explanation": "\"ambiguous\" means unclear.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-008",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"abundant\":",
+  "options": [
+   "easy",
+   "unstable",
+   "shrink",
+   "plentiful"
+  ],
+  "correct": 3,
+  "explanation": "\"abundant\" means plentiful.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-009",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"brave\":",
+  "options": [
+   "clear",
+   "strict",
+   "courageous",
+   "unfortunate"
+  ],
+  "correct": 2,
+  "explanation": "\"brave\" means courageous.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-010",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"conceal\":",
+  "options": [
+   "hide",
+   "unstable",
+   "cheerful",
+   "foolish"
+  ],
+  "correct": 0,
+  "explanation": "\"conceal\" means hide.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-011",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"expand\":",
+  "options": [
+   "naive",
+   "enlarge",
+   "support",
+   "unknown"
+  ],
+  "correct": 1,
+  "explanation": "\"expand\" means enlarge.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-012",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"fragile\":",
+  "options": [
+   "support",
+   "trivial",
+   "apathetic",
+   "delicate"
+  ],
+  "correct": 3,
+  "explanation": "\"fragile\" means delicate.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-013",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"gloomy\":",
+  "options": [
+   "expert",
+   "foolish",
+   "dismal",
+   "opaque"
+  ],
+  "correct": 2,
+  "explanation": "\"gloomy\" means dismal.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-014",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"humble\":",
+  "options": [
+   "modern",
+   "cheerful",
+   "stingy",
+   "modest"
+  ],
+  "correct": 3,
+  "explanation": "\"humble\" means modest.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-015",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"immense\":",
+  "options": [
+   "slow",
+   "huge",
+   "dishonest",
+   "friendly"
+  ],
+  "correct": 1,
+  "explanation": "\"immense\" means huge.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-016",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"stable\":",
+  "options": [
+   "scarce",
+   "steady",
+   "concise",
+   "strict"
+  ],
+  "correct": 1,
+  "explanation": "\"stable\" means steady.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-017",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"lenient\":",
+  "options": [
+   "cowardly",
+   "unknown",
+   "merciful",
+   "support"
+  ],
+  "correct": 2,
+  "explanation": "\"lenient\" means merciful.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-018",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"meager\":",
+  "options": [
+   "scanty",
+   "strict",
+   "false",
+   "cheerful"
+  ],
+  "correct": 0,
+  "explanation": "\"meager\" means scanty.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-019",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"novice\":",
+  "options": [
+   "reckless",
+   "secretive",
+   "beginner",
+   "cowardly"
+  ],
+  "correct": 2,
+  "explanation": "\"novice\" means beginner.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-020",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"oppose\":",
+  "options": [
+   "resist",
+   "easy",
+   "opaque",
+   "foolish"
+  ],
+  "correct": 0,
+  "explanation": "\"oppose\" means resist.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-021",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"prudent\":",
+  "options": [
+   "unstable",
+   "wise",
+   "reveal",
+   "easy"
+  ],
+  "correct": 1,
+  "explanation": "\"prudent\" means wise.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-022",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"hesitant\":",
+  "options": [
+   "doubtful",
+   "stingy",
+   "expert",
+   "defeat"
+  ],
+  "correct": 0,
+  "explanation": "\"hesitant\" means doubtful.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-023",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"sincere\":",
+  "options": [
+   "genuine",
+   "arrogant",
+   "slow",
+   "reveal"
+  ],
+  "correct": 0,
+  "explanation": "\"sincere\" means genuine.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-024",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"tranquil\":",
+  "options": [
+   "false",
+   "opaque",
+   "unstable",
+   "calm"
+  ],
+  "correct": 3,
+  "explanation": "\"tranquil\" means calm.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-025",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"vital\":",
+  "options": [
+   "unknown",
+   "naive",
+   "essential",
+   "expert"
+  ],
+  "correct": 2,
+  "explanation": "\"vital\" means essential.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-026",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"weary\":",
+  "options": [
+   "tired",
+   "foolish",
+   "naive",
+   "secretive"
+  ],
+  "correct": 0,
+  "explanation": "\"weary\" means tired.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-027",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"zealous\":",
+  "options": [
+   "defeat",
+   "stingy",
+   "reckless",
+   "enthusiastic"
+  ],
+  "correct": 3,
+  "explanation": "\"zealous\" means enthusiastic.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-028",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"verbose\":",
+  "options": [
+   "friendly",
+   "wordy",
+   "support",
+   "foolish"
+  ],
+  "correct": 1,
+  "explanation": "\"verbose\" means wordy.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-029",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"arduous\":",
+  "options": [
+   "tiny",
+   "decisive",
+   "false",
+   "difficult"
+  ],
+  "correct": 3,
+  "explanation": "\"arduous\" means difficult.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-030",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"astute\":",
+  "options": [
+   "expert",
+   "arrogant",
+   "shrewd",
+   "opaque"
+  ],
+  "correct": 2,
+  "explanation": "\"astute\" means shrewd.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-031",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"rapid\":",
+  "options": [
+   "unknown",
+   "swift",
+   "reveal",
+   "dishonest"
+  ],
+  "correct": 1,
+  "explanation": "\"rapid\" means swift.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-032",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"ancient\":",
+  "options": [
+   "arrogant",
+   "archaic",
+   "tiny",
+   "defeat"
+  ],
+  "correct": 1,
+  "explanation": "\"ancient\" means archaic.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-033",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"temporary\":",
+  "options": [
+   "stingy",
+   "reveal",
+   "brief",
+   "shrink"
+  ],
+  "correct": 2,
+  "explanation": "\"temporary\" means brief.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-034",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"victory\":",
+  "options": [
+   "triumph",
+   "shrink",
+   "strict",
+   "support"
+  ],
+  "correct": 0,
+  "explanation": "\"victory\" means triumph.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-035",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"generous\":",
+  "options": [
+   "sturdy",
+   "charitable",
+   "concise",
+   "slow"
+  ],
+  "correct": 1,
+  "explanation": "\"generous\" means charitable.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-036",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"transparent\":",
+  "options": [
+   "false",
+   "lazy",
+   "expert",
+   "see-through"
+  ],
+  "correct": 3,
+  "explanation": "\"transparent\" means see-through.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-037",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"honest\":",
+  "options": [
+   "turbulent",
+   "unstable",
+   "truthful",
+   "shrink"
+  ],
+  "correct": 2,
+  "explanation": "\"honest\" means truthful.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-038",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"cautious\":",
+  "options": [
+   "turbulent",
+   "defeat",
+   "cowardly",
+   "careful"
+  ],
+  "correct": 3,
+  "explanation": "\"cautious\" means careful.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-039",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"fortunate\":",
+  "options": [
+   "modern",
+   "strict",
+   "arrogant",
+   "lucky"
+  ],
+  "correct": 3,
+  "explanation": "\"fortunate\" means lucky.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-040",
+  "subject": "English",
+  "topic": "Vocabulary: Synonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word closest in meaning to \"hostile\":",
+  "options": [
+   "cowardly",
+   "easy",
+   "unfriendly",
+   "apathetic"
+  ],
+  "correct": 2,
+  "explanation": "\"hostile\" means unfriendly.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-041",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"benevolent\":",
+  "options": [
+   "modest",
+   "wise",
+   "cruel",
+   "scanty"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"benevolent\" is \"cruel\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-042",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"candid\":",
+  "options": [
+   "unclear",
+   "huge",
+   "secretive",
+   "triumph"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"candid\" is \"secretive\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-043",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"diligent\":",
+  "options": [
+   "lazy",
+   "enthusiastic",
+   "swift",
+   "careful"
+  ],
+  "correct": 0,
+  "explanation": "The opposite of \"diligent\" is \"lazy\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-044",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"eminent\":",
+  "options": [
+   "shrewd",
+   "beginner",
+   "unknown",
+   "plentiful"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"eminent\" is \"unknown\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-045",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"frugal\":",
+  "options": [
+   "hide",
+   "unclear",
+   "wasteful",
+   "outdated"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"frugal\" is \"wasteful\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-046",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"obsolete\":",
+  "options": [
+   "frank",
+   "brief",
+   "unfriendly",
+   "modern"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"obsolete\" is \"modern\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-047",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"ambiguous\":",
+  "options": [
+   "plentiful",
+   "modest",
+   "wordy",
+   "clear"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"ambiguous\" is \"clear\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-048",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"abundant\":",
+  "options": [
+   "scarce",
+   "tired",
+   "unclear",
+   "wordy"
+  ],
+  "correct": 0,
+  "explanation": "The opposite of \"abundant\" is \"scarce\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-049",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"brave\":",
+  "options": [
+   "calm",
+   "cowardly",
+   "charitable",
+   "triumph"
+  ],
+  "correct": 1,
+  "explanation": "The opposite of \"brave\" is \"cowardly\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-050",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"conceal\":",
+  "options": [
+   "resist",
+   "steady",
+   "tired",
+   "reveal"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"conceal\" is \"reveal\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-051",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"expand\":",
+  "options": [
+   "difficult",
+   "truthful",
+   "shrink",
+   "triumph"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"expand\" is \"shrink\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-052",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"fragile\":",
+  "options": [
+   "archaic",
+   "sturdy",
+   "triumph",
+   "shrewd"
+  ],
+  "correct": 1,
+  "explanation": "The opposite of \"fragile\" is \"sturdy\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-053",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"gloomy\":",
+  "options": [
+   "tired",
+   "swift",
+   "cheerful",
+   "delicate"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"gloomy\" is \"cheerful\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-054",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"humble\":",
+  "options": [
+   "essential",
+   "frank",
+   "arrogant",
+   "scanty"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"humble\" is \"arrogant\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-055",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"immense\":",
+  "options": [
+   "tiny",
+   "swift",
+   "hide",
+   "shrewd"
+  ],
+  "correct": 0,
+  "explanation": "The opposite of \"immense\" is \"tiny\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-056",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"stable\":",
+  "options": [
+   "calm",
+   "unclear",
+   "unstable",
+   "genuine"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"stable\" is \"unstable\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-057",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"lenient\":",
+  "options": [
+   "strict",
+   "frank",
+   "doubtful",
+   "courageous"
+  ],
+  "correct": 0,
+  "explanation": "The opposite of \"lenient\" is \"strict\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-058",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"meager\":",
+  "options": [
+   "ample",
+   "doubtful",
+   "huge",
+   "kind"
+  ],
+  "correct": 0,
+  "explanation": "The opposite of \"meager\" is \"ample\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-059",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"novice\":",
+  "options": [
+   "shrewd",
+   "expert",
+   "thrifty",
+   "courageous"
+  ],
+  "correct": 1,
+  "explanation": "The opposite of \"novice\" is \"expert\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-060",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"oppose\":",
+  "options": [
+   "support",
+   "frank",
+   "wordy",
+   "modest"
+  ],
+  "correct": 0,
+  "explanation": "The opposite of \"oppose\" is \"support\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-061",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"prudent\":",
+  "options": [
+   "calm",
+   "plentiful",
+   "tired",
+   "foolish"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"prudent\" is \"foolish\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-062",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"hesitant\":",
+  "options": [
+   "enthusiastic",
+   "hardworking",
+   "decisive",
+   "distinguished"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"hesitant\" is \"decisive\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-063",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"sincere\":",
+  "options": [
+   "false",
+   "hide",
+   "triumph",
+   "scanty"
+  ],
+  "correct": 0,
+  "explanation": "The opposite of \"sincere\" is \"false\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-064",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"tranquil\":",
+  "options": [
+   "thrifty",
+   "turbulent",
+   "dismal",
+   "resist"
+  ],
+  "correct": 1,
+  "explanation": "The opposite of \"tranquil\" is \"turbulent\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-065",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"vital\":",
+  "options": [
+   "huge",
+   "wordy",
+   "trivial",
+   "scanty"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"vital\" is \"trivial\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-066",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"weary\":",
+  "options": [
+   "unclear",
+   "huge",
+   "calm",
+   "energetic"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"weary\" is \"energetic\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-067",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"zealous\":",
+  "options": [
+   "steady",
+   "apathetic",
+   "plentiful",
+   "doubtful"
+  ],
+  "correct": 1,
+  "explanation": "The opposite of \"zealous\" is \"apathetic\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-068",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"verbose\":",
+  "options": [
+   "unclear",
+   "resist",
+   "kind",
+   "concise"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"verbose\" is \"concise\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-069",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"arduous\":",
+  "options": [
+   "frank",
+   "hardworking",
+   "easy",
+   "truthful"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"arduous\" is \"easy\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-070",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"astute\":",
+  "options": [
+   "plentiful",
+   "huge",
+   "brief",
+   "naive"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"astute\" is \"naive\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-071",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"rapid\":",
+  "options": [
+   "see-through",
+   "courageous",
+   "huge",
+   "slow"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"rapid\" is \"slow\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-072",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"ancient\":",
+  "options": [
+   "genuine",
+   "kind",
+   "lucky",
+   "recent"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"ancient\" is \"recent\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-073",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"temporary\":",
+  "options": [
+   "hide",
+   "hardworking",
+   "permanent",
+   "enlarge"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"temporary\" is \"permanent\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-074",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"victory\":",
+  "options": [
+   "defeat",
+   "enlarge",
+   "careful",
+   "kind"
+  ],
+  "correct": 0,
+  "explanation": "The opposite of \"victory\" is \"defeat\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-075",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"generous\":",
+  "options": [
+   "genuine",
+   "enthusiastic",
+   "essential",
+   "stingy"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"generous\" is \"stingy\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-076",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"transparent\":",
+  "options": [
+   "hardworking",
+   "calm",
+   "scanty",
+   "opaque"
+  ],
+  "correct": 3,
+  "explanation": "The opposite of \"transparent\" is \"opaque\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-077",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"honest\":",
+  "options": [
+   "resist",
+   "enthusiastic",
+   "dishonest",
+   "genuine"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"honest\" is \"dishonest\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-078",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"cautious\":",
+  "options": [
+   "enlarge",
+   "modest",
+   "reckless",
+   "triumph"
+  ],
+  "correct": 2,
+  "explanation": "The opposite of \"cautious\" is \"reckless\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-079",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"fortunate\":",
+  "options": [
+   "doubtful",
+   "unfortunate",
+   "unclear",
+   "outdated"
+  ],
+  "correct": 1,
+  "explanation": "The opposite of \"fortunate\" is \"unfortunate\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ENG-080",
+  "subject": "English",
+  "topic": "Vocabulary: Antonyms",
+  "difficulty": "Medium",
+  "question": "Choose the word opposite in meaning to \"hostile\":",
+  "options": [
+   "calm",
+   "friendly",
+   "beginner",
+   "unclear"
+  ],
+  "correct": 1,
+  "explanation": "The opposite of \"hostile\" is \"friendly\".",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-001",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Japan?",
+  "options": [
+   "Beijing",
+   "Canberra",
+   "Rome",
+   "Tokyo"
+  ],
+  "correct": 3,
+  "explanation": "Tokyo is the capital of Japan.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-002",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of France?",
+  "options": [
+   "Paris",
+   "Brasília",
+   "Berlin",
+   "Kathmandu"
+  ],
+  "correct": 0,
+  "explanation": "Paris is the capital of France.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-003",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Germany?",
+  "options": [
+   "Berlin",
+   "Kabul",
+   "Nairobi",
+   "Rome"
+  ],
+  "correct": 0,
+  "explanation": "Berlin is the capital of Germany.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-004",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Italy?",
+  "options": [
+   "Berlin",
+   "Tehran",
+   "New Delhi",
+   "Rome"
+  ],
+  "correct": 3,
+  "explanation": "Rome is the capital of Italy.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-005",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Spain?",
+  "options": [
+   "Dhaka",
+   "Madrid",
+   "Tehran",
+   "Rome"
+  ],
+  "correct": 1,
+  "explanation": "Madrid is the capital of Spain.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-006",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Canada?",
+  "options": [
+   "Rome",
+   "Madrid",
+   "London",
+   "Ottawa"
+  ],
+  "correct": 3,
+  "explanation": "Ottawa is the capital of Canada.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-007",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Australia?",
+  "options": [
+   "Rome",
+   "Beijing",
+   "Canberra",
+   "Brasília"
+  ],
+  "correct": 2,
+  "explanation": "Canberra is the capital of Australia.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-008",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Brazil?",
+  "options": [
+   "Riyadh",
+   "Brasília",
+   "Berlin",
+   "Moscow"
+  ],
+  "correct": 1,
+  "explanation": "Brasília is the capital of Brazil.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-009",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of India?",
+  "options": [
+   "Dhaka",
+   "London",
+   "Canberra",
+   "New Delhi"
+  ],
+  "correct": 3,
+  "explanation": "New Delhi is the capital of India.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-010",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of China?",
+  "options": [
+   "Berlin",
+   "Kabul",
+   "Tehran",
+   "Beijing"
+  ],
+  "correct": 3,
+  "explanation": "Beijing is the capital of China.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-011",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Russia?",
+  "options": [
+   "Tehran",
+   "Nairobi",
+   "Moscow",
+   "Riyadh"
+  ],
+  "correct": 2,
+  "explanation": "Moscow is the capital of Russia.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-012",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Egypt?",
+  "options": [
+   "Rome",
+   "Madrid",
+   "Ottawa",
+   "Cairo"
+  ],
+  "correct": 3,
+  "explanation": "Cairo is the capital of Egypt.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-013",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Turkey?",
+  "options": [
+   "Jakarta",
+   "Ottawa",
+   "Ankara",
+   "Riyadh"
+  ],
+  "correct": 2,
+  "explanation": "Ankara is the capital of Turkey.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-014",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Saudi Arabia?",
+  "options": [
+   "Riyadh",
+   "Kabul",
+   "Abuja",
+   "Washington D.C."
+  ],
+  "correct": 0,
+  "explanation": "Riyadh is the capital of Saudi Arabia.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-015",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Iran?",
+  "options": [
+   "Cairo",
+   "Riyadh",
+   "Kuala Lumpur",
+   "Tehran"
+  ],
+  "correct": 3,
+  "explanation": "Tehran is the capital of Iran.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-016",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Afghanistan?",
+  "options": [
+   "Buenos Aires",
+   "Paris",
+   "Kabul",
+   "Ankara"
+  ],
+  "correct": 2,
+  "explanation": "Kabul is the capital of Afghanistan.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-017",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Bangladesh?",
+  "options": [
+   "Dhaka",
+   "Moscow",
+   "Beijing",
+   "Ankara"
+  ],
+  "correct": 0,
+  "explanation": "Dhaka is the capital of Bangladesh.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-018",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Nepal?",
+  "options": [
+   "Madrid",
+   "Cairo",
+   "Rome",
+   "Kathmandu"
+  ],
+  "correct": 3,
+  "explanation": "Kathmandu is the capital of Nepal.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-019",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of United Kingdom?",
+  "options": [
+   "London",
+   "Ankara",
+   "Abuja",
+   "Jakarta"
+  ],
+  "correct": 0,
+  "explanation": "London is the capital of United Kingdom.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-020",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of United States?",
+  "options": [
+   "Ankara",
+   "Moscow",
+   "Washington D.C.",
+   "Kathmandu"
+  ],
+  "correct": 2,
+  "explanation": "Washington D.C. is the capital of United States.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-021",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Argentina?",
+  "options": [
+   "London",
+   "Buenos Aires",
+   "Tokyo",
+   "Kathmandu"
+  ],
+  "correct": 1,
+  "explanation": "Buenos Aires is the capital of Argentina.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-022",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Kenya?",
+  "options": [
+   "Tehran",
+   "Nairobi",
+   "Jakarta",
+   "Ottawa"
+  ],
+  "correct": 1,
+  "explanation": "Nairobi is the capital of Kenya.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-023",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Nigeria?",
+  "options": [
+   "Tokyo",
+   "Ottawa",
+   "Abuja",
+   "Washington D.C."
+  ],
+  "correct": 2,
+  "explanation": "Abuja is the capital of Nigeria.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-024",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Indonesia?",
+  "options": [
+   "London",
+   "Jakarta",
+   "Abuja",
+   "Washington D.C."
+  ],
+  "correct": 1,
+  "explanation": "Jakarta is the capital of Indonesia.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-025",
+  "subject": "General Knowledge",
+  "topic": "World Capitals",
+  "difficulty": "Easy",
+  "question": "What is the capital of Malaysia?",
+  "options": [
+   "Beijing",
+   "Madrid",
+   "Canberra",
+   "Kuala Lumpur"
+  ],
+  "correct": 3,
+  "explanation": "Kuala Lumpur is the capital of Malaysia.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-026",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of Japan?",
+  "options": [
+   "Franc",
+   "Lira",
+   "Yuan",
+   "Yen"
+  ],
+  "correct": 3,
+  "explanation": "Japan uses the Yen.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-027",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of United Kingdom?",
+  "options": [
+   "Pound Sterling",
+   "Riyal",
+   "Yuan",
+   "Yen"
+  ],
+  "correct": 0,
+  "explanation": "United Kingdom uses the Pound Sterling.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-028",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of Russia?",
+  "options": [
+   "Won",
+   "Ruble",
+   "Lira",
+   "Pound Sterling"
+  ],
+  "correct": 1,
+  "explanation": "Russia uses the Ruble.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-029",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of China?",
+  "options": [
+   "Yuan",
+   "Pound Sterling",
+   "Franc",
+   "Lira"
+  ],
+  "correct": 0,
+  "explanation": "China uses the Yuan.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-030",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of Saudi Arabia?",
+  "options": [
+   "Riyal",
+   "Baht",
+   "Won",
+   "Lira"
+  ],
+  "correct": 0,
+  "explanation": "Saudi Arabia uses the Riyal.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-031",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of Turkey?",
+  "options": [
+   "Taka",
+   "Riyal",
+   "Yen",
+   "Lira"
+  ],
+  "correct": 3,
+  "explanation": "Turkey uses the Lira.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-032",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of South Korea?",
+  "options": [
+   "Taka",
+   "Won",
+   "Ruble",
+   "Baht"
+  ],
+  "correct": 1,
+  "explanation": "South Korea uses the Won.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-033",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of Switzerland?",
+  "options": [
+   "Franc",
+   "Yuan",
+   "Yen",
+   "Won"
+  ],
+  "correct": 0,
+  "explanation": "Switzerland uses the Franc.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-034",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of Bangladesh?",
+  "options": [
+   "Won",
+   "Riyal",
+   "Yuan",
+   "Taka"
+  ],
+  "correct": 3,
+  "explanation": "Bangladesh uses the Taka.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-035",
+  "subject": "General Knowledge",
+  "topic": "World Currencies",
+  "difficulty": "Medium",
+  "question": "What is the currency of Thailand?",
+  "options": [
+   "Baht",
+   "Lira",
+   "Franc",
+   "Ruble"
+  ],
+  "correct": 0,
+  "explanation": "Thailand uses the Baht.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-036",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Gold?",
+  "options": [
+   "Au",
+   "Sn",
+   "K",
+   "Fe"
+  ],
+  "correct": 0,
+  "explanation": "The symbol for Gold is Au.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-037",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Silver?",
+  "options": [
+   "Ag",
+   "Na",
+   "Au",
+   "Sn"
+  ],
+  "correct": 0,
+  "explanation": "The symbol for Silver is Ag.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-038",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Iron?",
+  "options": [
+   "Na",
+   "K",
+   "Fe",
+   "Pb"
+  ],
+  "correct": 2,
+  "explanation": "The symbol for Iron is Fe.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-039",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Sodium?",
+  "options": [
+   "Au",
+   "Na",
+   "Fe",
+   "Sn"
+  ],
+  "correct": 1,
+  "explanation": "The symbol for Sodium is Na.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-040",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Potassium?",
+  "options": [
+   "Na",
+   "Cu",
+   "K",
+   "Ag"
+  ],
+  "correct": 2,
+  "explanation": "The symbol for Potassium is K.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-041",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Lead?",
+  "options": [
+   "Au",
+   "K",
+   "Cu",
+   "Pb"
+  ],
+  "correct": 3,
+  "explanation": "The symbol for Lead is Pb.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-042",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Mercury?",
+  "options": [
+   "Fe",
+   "He",
+   "Hg",
+   "Ag"
+  ],
+  "correct": 2,
+  "explanation": "The symbol for Mercury is Hg.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-043",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Copper?",
+  "options": [
+   "Cu",
+   "Ag",
+   "K",
+   "Pb"
+  ],
+  "correct": 0,
+  "explanation": "The symbol for Copper is Cu.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-044",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Tin?",
+  "options": [
+   "Ag",
+   "Pb",
+   "Au",
+   "Sn"
+  ],
+  "correct": 3,
+  "explanation": "The symbol for Tin is Sn.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-045",
+  "subject": "General Knowledge",
+  "topic": "Science: Elements",
+  "difficulty": "Medium",
+  "question": "What is the chemical symbol of Helium?",
+  "options": [
+   "Hg",
+   "Pb",
+   "Cu",
+   "He"
+  ],
+  "correct": 3,
+  "explanation": "The symbol for Helium is He.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-046",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"Hamlet\"?",
+  "options": [
+   "William Shakespeare",
+   "Miguel de Cervantes",
+   "Homer",
+   "Jonathan Swift"
+  ],
+  "correct": 0,
+  "explanation": "\"Hamlet\" was written by William Shakespeare.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-047",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"Paradise Lost\"?",
+  "options": [
+   "William Shakespeare",
+   "Charles Dickens",
+   "George Orwell",
+   "John Milton"
+  ],
+  "correct": 3,
+  "explanation": "\"Paradise Lost\" was written by John Milton.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-048",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"Pride and Prejudice\"?",
+  "options": [
+   "John Milton",
+   "Leo Tolstoy",
+   "Jane Austen",
+   "Jonathan Swift"
+  ],
+  "correct": 2,
+  "explanation": "\"Pride and Prejudice\" was written by Jane Austen.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-049",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"Oliver Twist\"?",
+  "options": [
+   "Charles Dickens",
+   "Miguel de Cervantes",
+   "Jane Austen",
+   "Allama Iqbal"
+  ],
+  "correct": 0,
+  "explanation": "\"Oliver Twist\" was written by Charles Dickens.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-050",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"Gulliver's Travels\"?",
+  "options": [
+   "Allama Iqbal",
+   "Jonathan Swift",
+   "John Milton",
+   "Homer"
+  ],
+  "correct": 1,
+  "explanation": "\"Gulliver's Travels\" was written by Jonathan Swift.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-051",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"Animal Farm\"?",
+  "options": [
+   "John Milton",
+   "George Orwell",
+   "Miguel de Cervantes",
+   "Homer"
+  ],
+  "correct": 1,
+  "explanation": "\"Animal Farm\" was written by George Orwell.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-052",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"Shikwa\"?",
+  "options": [
+   "Homer",
+   "Jane Austen",
+   "Allama Iqbal",
+   "Jonathan Swift"
+  ],
+  "correct": 2,
+  "explanation": "\"Shikwa\" was written by Allama Iqbal.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-053",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"War and Peace\"?",
+  "options": [
+   "Jane Austen",
+   "Miguel de Cervantes",
+   "Leo Tolstoy",
+   "Homer"
+  ],
+  "correct": 2,
+  "explanation": "\"War and Peace\" was written by Leo Tolstoy.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-054",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"Don Quixote\"?",
+  "options": [
+   "Jonathan Swift",
+   "Miguel de Cervantes",
+   "Allama Iqbal",
+   "George Orwell"
+  ],
+  "correct": 1,
+  "explanation": "\"Don Quixote\" was written by Miguel de Cervantes.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-055",
+  "subject": "General Knowledge",
+  "topic": "Literature",
+  "difficulty": "Medium",
+  "question": "Who wrote \"The Odyssey\"?",
+  "options": [
+   "Allama Iqbal",
+   "John Milton",
+   "Homer",
+   "Jonathan Swift"
+  ],
+  "correct": 2,
+  "explanation": "\"The Odyssey\" was written by Homer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-056",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the largest planet in the solar system?",
+  "options": [
+   "Jupiter",
+   "Earth",
+   "Neptune",
+   "Saturn"
+  ],
+  "correct": 0,
+  "explanation": "Jupiter is the largest planet.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-057",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which planet is closest to the Sun?",
+  "options": [
+   "Venus",
+   "Earth",
+   "Mercury",
+   "Mars"
+  ],
+  "correct": 2,
+  "explanation": "Mercury orbits closest to the Sun.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-058",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Water boils at sea level at:",
+  "options": [
+   "90°C",
+   "80°C",
+   "110°C",
+   "100°C"
+  ],
+  "correct": 3,
+  "explanation": "Boiling point of water is 100°C at sea level.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-059",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which gas forms most of Earth’s atmosphere?",
+  "options": [
+   "Carbon dioxide",
+   "Nitrogen",
+   "Oxygen",
+   "Hydrogen"
+  ],
+  "correct": 1,
+  "explanation": "About 78% is nitrogen.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-060",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the largest ocean?",
+  "options": [
+   "Indian Ocean",
+   "Atlantic Ocean",
+   "Pacific Ocean",
+   "Arctic Ocean"
+  ],
+  "correct": 2,
+  "explanation": "The Pacific is the largest ocean.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-061",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the largest continent by area?",
+  "options": [
+   "Asia",
+   "Europe",
+   "Africa",
+   "North America"
+  ],
+  "correct": 0,
+  "explanation": "Asia is the largest continent.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-062",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the smallest continent?",
+  "options": [
+   "Antarctica",
+   "Europe",
+   "Australia",
+   "South America"
+  ],
+  "correct": 2,
+  "explanation": "Australia is the smallest continent.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-063",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the largest hot desert in the world?",
+  "options": [
+   "Thar",
+   "Sahara",
+   "Gobi",
+   "Kalahari"
+  ],
+  "correct": 1,
+  "explanation": "The Sahara is the largest hot desert.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-064",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the hardest natural substance?",
+  "options": [
+   "Iron",
+   "Quartz",
+   "Granite",
+   "Diamond"
+  ],
+  "correct": 3,
+  "explanation": "Diamond ranks 10 on the Mohs scale.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-065",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "How many bones are in an adult human body?",
+  "options": [
+   "212",
+   "206",
+   "300",
+   "201"
+  ],
+  "correct": 1,
+  "explanation": "The adult skeleton has 206 bones.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-066",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which planet is known as the Red Planet?",
+  "options": [
+   "Mars",
+   "Mercury",
+   "Jupiter",
+   "Venus"
+  ],
+  "correct": 0,
+  "explanation": "Iron oxide gives Mars its red colour.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-067",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Plants absorb which gas for photosynthesis?",
+  "options": [
+   "Nitrogen",
+   "Oxygen",
+   "Methane",
+   "Carbon dioxide"
+  ],
+  "correct": 3,
+  "explanation": "Plants take in CO2.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-068",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Who is called the father of the computer?",
+  "options": [
+   "Charles Babbage",
+   "Bill Gates",
+   "Steve Jobs",
+   "Alan Turing"
+  ],
+  "correct": 0,
+  "explanation": "Babbage designed the Analytical Engine.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-069",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Who invented the telephone?",
+  "options": [
+   "Alexander Graham Bell",
+   "Nikola Tesla",
+   "Marconi",
+   "Thomas Edison"
+  ],
+  "correct": 0,
+  "explanation": "Bell patented the telephone in 1876.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-070",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Where is the UN headquarters?",
+  "options": [
+   "Paris",
+   "Geneva",
+   "New York",
+   "London"
+  ],
+  "correct": 2,
+  "explanation": "The UN is headquartered in New York City.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-071",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Where is the WHO headquartered?",
+  "options": [
+   "Vienna",
+   "Rome",
+   "New York",
+   "Geneva"
+  ],
+  "correct": 3,
+  "explanation": "WHO is based in Geneva.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-072",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the largest mammal?",
+  "options": [
+   "African elephant",
+   "Hippopotamus",
+   "Giraffe",
+   "Blue whale"
+  ],
+  "correct": 3,
+  "explanation": "The blue whale is the largest animal.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-073",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the highest mountain above sea level?",
+  "options": [
+   "Kangchenjunga",
+   "Lhotse",
+   "Mount Everest",
+   "K2"
+  ],
+  "correct": 2,
+  "explanation": "Everest is 8,849 m.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-074",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the largest country by area?",
+  "options": [
+   "United States",
+   "Canada",
+   "Russia",
+   "China"
+  ],
+  "correct": 2,
+  "explanation": "Russia is the largest.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-075",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "How many days are in a leap year?",
+  "options": [
+   "367",
+   "365",
+   "364",
+   "366"
+  ],
+  "correct": 3,
+  "explanation": "A leap year has 366 days.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-076",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "How many players are in a cricket team on the field?",
+  "options": [
+   "12",
+   "11",
+   "10",
+   "9"
+  ],
+  "correct": 1,
+  "explanation": "Eleven per side.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-077",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Who first walked on the Moon?",
+  "options": [
+   "Neil Armstrong",
+   "Buzz Aldrin",
+   "Yuri Gagarin",
+   "Michael Collins"
+  ],
+  "correct": 0,
+  "explanation": "Apollo 11, 1969.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-078",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "The SI unit of force is:",
+  "options": [
+   "Newton",
+   "Pascal",
+   "Joule",
+   "Watt"
+  ],
+  "correct": 0,
+  "explanation": "Force is measured in newtons.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-079",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "What is the chemical formula of water?",
+  "options": [
+   "CO2",
+   "H2O2",
+   "HO2",
+   "H2O"
+  ],
+  "correct": 3,
+  "explanation": "Two hydrogen atoms and one oxygen.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "GEN-080",
+  "subject": "General Knowledge",
+  "topic": "General Science & World",
+  "difficulty": "Easy",
+  "question": "Which is the largest organ of the human body?",
+  "options": [
+   "Heart",
+   "Liver",
+   "Skin",
+   "Lungs"
+  ],
+  "correct": 2,
+  "explanation": "The skin is the largest organ.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-001",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The Pakistan (Lahore) Resolution was passed in:",
+  "options": [
+   "1949",
+   "1965",
+   "1940",
+   "1947"
+  ],
+  "correct": 2,
+  "explanation": "The correct year is 1940.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-002",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "Allama Iqbal delivered his Allahabad Address in:",
+  "options": [
+   "1916",
+   "1930",
+   "1965",
+   "1928"
+  ],
+  "correct": 1,
+  "explanation": "The correct year is 1930.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-003",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "Pakistan came into being in:",
+  "options": [
+   "1973",
+   "1906",
+   "1928",
+   "1947"
+  ],
+  "correct": 3,
+  "explanation": "The correct year is 1947.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-004",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The first Constitution of Pakistan was enacted in:",
+  "options": [
+   "1930",
+   "1929",
+   "1965",
+   "1956"
+  ],
+  "correct": 3,
+  "explanation": "The correct year is 1956.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-005",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The present Constitution of Pakistan was adopted in:",
+  "options": [
+   "1949",
+   "1956",
+   "1965",
+   "1973"
+  ],
+  "correct": 3,
+  "explanation": "The correct year is 1973.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-006",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The Objectives Resolution was passed in:",
+  "options": [
+   "1947",
+   "1949",
+   "1940",
+   "1930"
+  ],
+  "correct": 1,
+  "explanation": "The correct year is 1949.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-007",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "Quaid-e-Azam Muhammad Ali Jinnah passed away in:",
+  "options": [
+   "1948",
+   "1949",
+   "1971",
+   "1972"
+  ],
+  "correct": 0,
+  "explanation": "The correct year is 1948.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-008",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The Tashkent Declaration followed the war of:",
+  "options": [
+   "1973",
+   "1946",
+   "1956",
+   "1965"
+  ],
+  "correct": 3,
+  "explanation": "The correct year is 1965.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-009",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "East Pakistan became Bangladesh in:",
+  "options": [
+   "1972",
+   "1946",
+   "1971",
+   "1906"
+  ],
+  "correct": 2,
+  "explanation": "The correct year is 1971.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-010",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The Simla Agreement was signed in:",
+  "options": [
+   "1906",
+   "1972",
+   "1940",
+   "1929"
+  ],
+  "correct": 1,
+  "explanation": "The correct year is 1972.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-011",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The Lucknow Pact between Congress and Muslim League was signed in:",
+  "options": [
+   "1948",
+   "1949",
+   "1916",
+   "1928"
+  ],
+  "correct": 2,
+  "explanation": "The correct year is 1916.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-012",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The All-India Muslim League was founded in:",
+  "options": [
+   "1946",
+   "1906",
+   "1940",
+   "1965"
+  ],
+  "correct": 1,
+  "explanation": "The correct year is 1906.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-013",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The Nehru Report was published in:",
+  "options": [
+   "1906",
+   "1928",
+   "1973",
+   "1916"
+  ],
+  "correct": 1,
+  "explanation": "The correct year is 1928.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-014",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "Jinnah presented his Fourteen Points in:",
+  "options": [
+   "1973",
+   "1929",
+   "1971",
+   "1916"
+  ],
+  "correct": 1,
+  "explanation": "The correct year is 1929.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-015",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The Cabinet Mission Plan came in:",
+  "options": [
+   "1965",
+   "1956",
+   "1946",
+   "1916"
+  ],
+  "correct": 2,
+  "explanation": "The correct year is 1946.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-016",
+  "subject": "Pakistan Studies",
+  "topic": "History & Constitution",
+  "difficulty": "Medium",
+  "question": "The Government of India Act, a major constitutional law, was passed in:",
+  "options": [
+   "1971",
+   "1965",
+   "1956",
+   "1935"
+  ],
+  "correct": 3,
+  "explanation": "The correct year is 1935.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-017",
+  "subject": "Pakistan Studies",
+  "topic": "Personalities",
+  "difficulty": "Medium",
+  "question": "Who was the first Prime Minister of Pakistan?",
+  "options": [
+   "Liaquat Ali Khan",
+   "Muhammad Ali Jinnah",
+   "Sir Syed Ahmad Khan",
+   "Ayub Khan"
+  ],
+  "correct": 0,
+  "explanation": "Liaquat Ali Khan is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-018",
+  "subject": "Pakistan Studies",
+  "topic": "Personalities",
+  "difficulty": "Medium",
+  "question": "Who was the first Governor-General of Pakistan?",
+  "options": [
+   "Muhammad Ali Jinnah",
+   "Ayub Khan",
+   "Sir Syed Ahmad Khan",
+   "Choudhry Rahmat Ali"
+  ],
+  "correct": 0,
+  "explanation": "Muhammad Ali Jinnah is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-019",
+  "subject": "Pakistan Studies",
+  "topic": "Personalities",
+  "difficulty": "Medium",
+  "question": "Who was the first President under the 1956 Constitution?",
+  "options": [
+   "Allama Iqbal",
+   "Iskander Mirza",
+   "Choudhry Rahmat Ali",
+   "Zulfikar Ali Bhutto"
+  ],
+  "correct": 1,
+  "explanation": "Iskander Mirza is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-020",
+  "subject": "Pakistan Studies",
+  "topic": "Personalities",
+  "difficulty": "Medium",
+  "question": "Who coined the name \"Pakistan\"?",
+  "options": [
+   "Choudhry Rahmat Ali",
+   "Zulfikar Ali Bhutto",
+   "Iskander Mirza",
+   "Sir Syed Ahmad Khan"
+  ],
+  "correct": 0,
+  "explanation": "Choudhry Rahmat Ali is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-021",
+  "subject": "Pakistan Studies",
+  "topic": "Personalities",
+  "difficulty": "Medium",
+  "question": "Who founded the Aligarh Movement?",
+  "options": [
+   "Sir Syed Ahmad Khan",
+   "Ayub Khan",
+   "Khawaja Nazimuddin",
+   "Iskander Mirza"
+  ],
+  "correct": 0,
+  "explanation": "Sir Syed Ahmad Khan is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-022",
+  "subject": "Pakistan Studies",
+  "topic": "Personalities",
+  "difficulty": "Medium",
+  "question": "Who moved the Lahore Resolution in 1940?",
+  "options": [
+   "Zulfikar Ali Bhutto",
+   "A. K. Fazlul Huq",
+   "Iskander Mirza",
+   "Muhammad Ali Jinnah"
+  ],
+  "correct": 1,
+  "explanation": "A. K. Fazlul Huq is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-023",
+  "subject": "Pakistan Studies",
+  "topic": "Personalities",
+  "difficulty": "Medium",
+  "question": "Who was the Prime Minister when the 1973 Constitution was passed?",
+  "options": [
+   "Choudhry Rahmat Ali",
+   "Allama Iqbal",
+   "Sir Syed Ahmad Khan",
+   "Zulfikar Ali Bhutto"
+  ],
+  "correct": 3,
+  "explanation": "Zulfikar Ali Bhutto is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-024",
+  "subject": "Pakistan Studies",
+  "topic": "Geography",
+  "difficulty": "Easy",
+  "question": "Which is the largest province of Pakistan by area?",
+  "options": [
+   "Khyber Pakhtunkhwa",
+   "Punjab",
+   "Balochistan",
+   "Sindh"
+  ],
+  "correct": 2,
+  "explanation": "Balochistan is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-025",
+  "subject": "Pakistan Studies",
+  "topic": "Geography",
+  "difficulty": "Easy",
+  "question": "Which is the most populous province of Pakistan?",
+  "options": [
+   "Sindh",
+   "Khyber Pakhtunkhwa",
+   "Balochistan",
+   "Punjab"
+  ],
+  "correct": 3,
+  "explanation": "Punjab is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-026",
+  "subject": "Pakistan Studies",
+  "topic": "Geography",
+  "difficulty": "Easy",
+  "question": "Mohenjo-daro is located in which province?",
+  "options": [
+   "Sindh",
+   "Punjab",
+   "Balochistan",
+   "Khyber Pakhtunkhwa"
+  ],
+  "correct": 0,
+  "explanation": "Sindh is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-027",
+  "subject": "Pakistan Studies",
+  "topic": "Geography",
+  "difficulty": "Easy",
+  "question": "Taxila is located in which province?",
+  "options": [
+   "Khyber Pakhtunkhwa",
+   "Punjab",
+   "Balochistan",
+   "Sindh"
+  ],
+  "correct": 1,
+  "explanation": "Punjab is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-028",
+  "subject": "Pakistan Studies",
+  "topic": "Geography",
+  "difficulty": "Easy",
+  "question": "The Swat Valley lies in which province?",
+  "options": [
+   "Sindh",
+   "Khyber Pakhtunkhwa",
+   "Balochistan",
+   "Punjab"
+  ],
+  "correct": 1,
+  "explanation": "Khyber Pakhtunkhwa is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-029",
+  "subject": "Pakistan Studies",
+  "topic": "Geography",
+  "difficulty": "Easy",
+  "question": "The Khyber Pass is in which province?",
+  "options": [
+   "Sindh",
+   "Khyber Pakhtunkhwa",
+   "Balochistan",
+   "Punjab"
+  ],
+  "correct": 1,
+  "explanation": "Khyber Pakhtunkhwa is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-030",
+  "subject": "Pakistan Studies",
+  "topic": "Geography",
+  "difficulty": "Easy",
+  "question": "Gwadar Port is located in which province?",
+  "options": [
+   "Punjab",
+   "Balochistan",
+   "Khyber Pakhtunkhwa",
+   "Sindh"
+  ],
+  "correct": 1,
+  "explanation": "Balochistan is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-031",
+  "subject": "Pakistan Studies",
+  "topic": "Geography: Rivers",
+  "difficulty": "Easy",
+  "question": "Which is the longest river of Pakistan?",
+  "options": [
+   "Chenab",
+   "Jhelum",
+   "Ravi",
+   "Indus"
+  ],
+  "correct": 3,
+  "explanation": "Indus is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-032",
+  "subject": "Pakistan Studies",
+  "topic": "Geography: Rivers",
+  "difficulty": "Easy",
+  "question": "Tarbela Dam is built on the river:",
+  "options": [
+   "Chenab",
+   "Jhelum",
+   "Ravi",
+   "Indus"
+  ],
+  "correct": 3,
+  "explanation": "Indus is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-033",
+  "subject": "Pakistan Studies",
+  "topic": "Geography: Rivers",
+  "difficulty": "Easy",
+  "question": "Mangla Dam is built on the river:",
+  "options": [
+   "Chenab",
+   "Indus",
+   "Jhelum",
+   "Ravi"
+  ],
+  "correct": 2,
+  "explanation": "Jhelum is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-034",
+  "subject": "Pakistan Studies",
+  "topic": "Geography: Rivers",
+  "difficulty": "Easy",
+  "question": "The city of Lahore stands on the bank of the river:",
+  "options": [
+   "Chenab",
+   "Indus",
+   "Ravi",
+   "Jhelum"
+  ],
+  "correct": 2,
+  "explanation": "Ravi is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-035",
+  "subject": "Pakistan Studies",
+  "topic": "National Symbols",
+  "difficulty": "Easy",
+  "question": "Which is the national animal of Pakistan?",
+  "options": [
+   "Snow leopard",
+   "Markhor",
+   "Camel",
+   "Bengal tiger"
+  ],
+  "correct": 1,
+  "explanation": "Markhor is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-036",
+  "subject": "Pakistan Studies",
+  "topic": "National Symbols",
+  "difficulty": "Easy",
+  "question": "Which is the national flower of Pakistan?",
+  "options": [
+   "Rose",
+   "Jasmine",
+   "Tulip",
+   "Lotus"
+  ],
+  "correct": 1,
+  "explanation": "Jasmine is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-037",
+  "subject": "Pakistan Studies",
+  "topic": "National Symbols",
+  "difficulty": "Easy",
+  "question": "Which is the national tree of Pakistan?",
+  "options": [
+   "Deodar",
+   "Pine",
+   "Banyan",
+   "Neem"
+  ],
+  "correct": 0,
+  "explanation": "Deodar is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-038",
+  "subject": "Pakistan Studies",
+  "topic": "National Symbols",
+  "difficulty": "Easy",
+  "question": "Which is the national game of Pakistan?",
+  "options": [
+   "Kabaddi",
+   "Field hockey",
+   "Squash",
+   "Cricket"
+  ],
+  "correct": 1,
+  "explanation": "Field hockey is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-039",
+  "subject": "Pakistan Studies",
+  "topic": "National Symbols",
+  "difficulty": "Easy",
+  "question": "Which is the national language of Pakistan?",
+  "options": [
+   "Punjabi",
+   "Sindhi",
+   "Urdu",
+   "Pashto"
+  ],
+  "correct": 2,
+  "explanation": "Urdu is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "PAK-040",
+  "subject": "Pakistan Studies",
+  "topic": "National Symbols",
+  "difficulty": "Easy",
+  "question": "Who is the national poet of Pakistan?",
+  "options": [
+   "Hafeez Jalandhari",
+   "Allama Iqbal",
+   "Faiz Ahmad Faiz",
+   "Mirza Ghalib"
+  ],
+  "correct": 1,
+  "explanation": "Allama Iqbal is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-001",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "How many pillars of Islam are there?",
+  "options": [
+   "5",
+   "4",
+   "23",
+   "114"
+  ],
+  "correct": 0,
+  "explanation": "The answer is 5.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-002",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "How many articles of faith (Iman) are there?",
+  "options": [
+   "23",
+   "114",
+   "3",
+   "6"
+  ],
+  "correct": 3,
+  "explanation": "The answer is 6.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-003",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "How many Surahs are in the Quran?",
+  "options": [
+   "114",
+   "4",
+   "30",
+   "3"
+  ],
+  "correct": 0,
+  "explanation": "The answer is 114.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-004",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "How many Juz (parts) does the Quran have?",
+  "options": [
+   "5",
+   "6",
+   "30",
+   "2"
+  ],
+  "correct": 2,
+  "explanation": "The answer is 30.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-005",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "How many fard rakats are in Fajr prayer?",
+  "options": [
+   "3",
+   "6",
+   "2",
+   "7"
+  ],
+  "correct": 2,
+  "explanation": "The answer is 2.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-006",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "How many fard rakats are in Maghrib prayer?",
+  "options": [
+   "6",
+   "3",
+   "114",
+   "23"
+  ],
+  "correct": 1,
+  "explanation": "The answer is 3.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-007",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "How many fard rakats are in Isha prayer?",
+  "options": [
+   "5",
+   "2",
+   "4",
+   "114"
+  ],
+  "correct": 2,
+  "explanation": "The answer is 4.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-008",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "How many compulsory daily prayers are there?",
+  "options": [
+   "114",
+   "5",
+   "3",
+   "6"
+  ],
+  "correct": 1,
+  "explanation": "The answer is 5.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-009",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "Over about how many years was the Quran revealed?",
+  "options": [
+   "6",
+   "23",
+   "7",
+   "2"
+  ],
+  "correct": 1,
+  "explanation": "The answer is 23.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-010",
+  "subject": "Islamic Studies",
+  "topic": "Basics of Islam",
+  "difficulty": "Easy",
+  "question": "How many circuits (rounds) of Tawaf are performed?",
+  "options": [
+   "7",
+   "4",
+   "5",
+   "114"
+  ],
+  "correct": 0,
+  "explanation": "The answer is 7.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-011",
+  "subject": "Islamic Studies",
+  "topic": "Seerah & Companions",
+  "difficulty": "Medium",
+  "question": "Who was the first Caliph of Islam?",
+  "options": [
+   "Hazrat Hamza (RA)",
+   "Hazrat Abu Bakr (RA)",
+   "Hazrat Umar (RA)",
+   "Abu Talib"
+  ],
+  "correct": 1,
+  "explanation": "Hazrat Abu Bakr (RA) is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-012",
+  "subject": "Islamic Studies",
+  "topic": "Seerah & Companions",
+  "difficulty": "Medium",
+  "question": "Who was the second Caliph of Islam?",
+  "options": [
+   "Hazrat Umar (RA)",
+   "Hazrat Abu Bakr (RA)",
+   "Abu Talib",
+   "Abdul Muttalib"
+  ],
+  "correct": 0,
+  "explanation": "Hazrat Umar (RA) is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-013",
+  "subject": "Islamic Studies",
+  "topic": "Seerah & Companions",
+  "difficulty": "Medium",
+  "question": "Who was the third Caliph of Islam?",
+  "options": [
+   "Hazrat Umar (RA)",
+   "Hazrat Uthman (RA)",
+   "Hazrat Abu Bakr (RA)",
+   "Abu Talib"
+  ],
+  "correct": 1,
+  "explanation": "Hazrat Uthman (RA) is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-014",
+  "subject": "Islamic Studies",
+  "topic": "Seerah & Companions",
+  "difficulty": "Medium",
+  "question": "Who was the fourth Caliph of Islam?",
+  "options": [
+   "Hazrat Ali (RA)",
+   "Abu Talib",
+   "Hazrat Umar (RA)",
+   "Hazrat Khadijah (RA)"
+  ],
+  "correct": 0,
+  "explanation": "Hazrat Ali (RA) is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-015",
+  "subject": "Islamic Studies",
+  "topic": "Seerah & Companions",
+  "difficulty": "Medium",
+  "question": "Who was the first Muezzin of Islam?",
+  "options": [
+   "Hazrat Bilal (RA)",
+   "Abu Talib",
+   "Hazrat Ali (RA)",
+   "Hazrat Khadijah (RA)"
+  ],
+  "correct": 0,
+  "explanation": "Hazrat Bilal (RA) is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-016",
+  "subject": "Islamic Studies",
+  "topic": "Seerah & Companions",
+  "difficulty": "Medium",
+  "question": "Who was the first wife of the Prophet (PBUH)?",
+  "options": [
+   "Hazrat Bilal (RA)",
+   "Hazrat Khadijah (RA)",
+   "Hazrat Abu Bakr (RA)",
+   "Hazrat Aminah"
+  ],
+  "correct": 1,
+  "explanation": "Hazrat Khadijah (RA) is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-017",
+  "subject": "Islamic Studies",
+  "topic": "Seerah & Companions",
+  "difficulty": "Medium",
+  "question": "Who was the mother of the Prophet (PBUH)?",
+  "options": [
+   "Hazrat Aminah",
+   "Hazrat Khadijah (RA)",
+   "Hazrat Ali (RA)",
+   "Hazrat Bilal (RA)"
+  ],
+  "correct": 0,
+  "explanation": "Hazrat Aminah is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-018",
+  "subject": "Islamic Studies",
+  "topic": "Seerah & Companions",
+  "difficulty": "Medium",
+  "question": "Who raised the Prophet (PBUH) after his grandfather?",
+  "options": [
+   "Abu Talib",
+   "Hazrat Bilal (RA)",
+   "Hazrat Khadijah (RA)",
+   "Hazrat Abu Bakr (RA)"
+  ],
+  "correct": 0,
+  "explanation": "Abu Talib is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-019",
+  "subject": "Islamic Studies",
+  "topic": "Seerah & Companions",
+  "difficulty": "Medium",
+  "question": "Who was the grandfather of the Prophet (PBUH)?",
+  "options": [
+   "Hazrat Aminah",
+   "Abu Talib",
+   "Hazrat Ali (RA)",
+   "Abdul Muttalib"
+  ],
+  "correct": 3,
+  "explanation": "Abdul Muttalib is the correct answer.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-020",
+  "subject": "Islamic Studies",
+  "topic": "Quran",
+  "difficulty": "Medium",
+  "question": "Which is the longest Surah of the Quran?",
+  "options": [
+   "Al-Ikhlas",
+   "Al-Baqarah",
+   "At-Tawbah",
+   "Al-Kawthar"
+  ],
+  "correct": 1,
+  "explanation": "Al-Baqarah is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-021",
+  "subject": "Islamic Studies",
+  "topic": "Quran",
+  "difficulty": "Medium",
+  "question": "Which is the shortest Surah of the Quran?",
+  "options": [
+   "Al-Baqarah",
+   "At-Tawbah",
+   "Al-Kawthar",
+   "Yaseen"
+  ],
+  "correct": 2,
+  "explanation": "Al-Kawthar is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-022",
+  "subject": "Islamic Studies",
+  "topic": "Quran",
+  "difficulty": "Medium",
+  "question": "Which Surah is called the \"Heart of the Quran\"?",
+  "options": [
+   "Al-Ikhlas",
+   "Yaseen",
+   "Al-Baqarah",
+   "Al-Alaq"
+  ],
+  "correct": 1,
+  "explanation": "Yaseen is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-023",
+  "subject": "Islamic Studies",
+  "topic": "Quran",
+  "difficulty": "Medium",
+  "question": "Which Surah is the opening Surah of the Quran?",
+  "options": [
+   "At-Tawbah",
+   "Yaseen",
+   "Al-Alaq",
+   "Al-Fatiha"
+  ],
+  "correct": 3,
+  "explanation": "Al-Fatiha is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-024",
+  "subject": "Islamic Studies",
+  "topic": "Quran",
+  "difficulty": "Medium",
+  "question": "Which Surah does not begin with Bismillah?",
+  "options": [
+   "Yaseen",
+   "Al-Baqarah",
+   "Al-Kawthar",
+   "At-Tawbah"
+  ],
+  "correct": 3,
+  "explanation": "At-Tawbah is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-025",
+  "subject": "Islamic Studies",
+  "topic": "Quran",
+  "difficulty": "Medium",
+  "question": "The first revealed verses are from which Surah?",
+  "options": [
+   "Al-Baqarah",
+   "Al-Alaq",
+   "At-Tawbah",
+   "Yaseen"
+  ],
+  "correct": 1,
+  "explanation": "Al-Alaq is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-026",
+  "subject": "Islamic Studies",
+  "topic": "Quran",
+  "difficulty": "Medium",
+  "question": "Ayat-ul-Kursi is found in which Surah?",
+  "options": [
+   "Al-Alaq",
+   "Yaseen",
+   "Al-Ikhlas",
+   "Al-Baqarah"
+  ],
+  "correct": 3,
+  "explanation": "Al-Baqarah is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-027",
+  "subject": "Islamic Studies",
+  "topic": "Seerah: Battles",
+  "difficulty": "Medium",
+  "question": "Which was the first major battle of Islam?",
+  "options": [
+   "Khandaq",
+   "Uhud",
+   "Badr",
+   "Hunain"
+  ],
+  "correct": 2,
+  "explanation": "Badr is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-028",
+  "subject": "Islamic Studies",
+  "topic": "Seerah: Battles",
+  "difficulty": "Medium",
+  "question": "In which battle was Hazrat Hamza (RA) martyred?",
+  "options": [
+   "Uhud",
+   "Khandaq",
+   "Badr",
+   "Hunain"
+  ],
+  "correct": 0,
+  "explanation": "Uhud is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-029",
+  "subject": "Islamic Studies",
+  "topic": "Seerah: Battles",
+  "difficulty": "Medium",
+  "question": "In which battle was a trench dug around Madinah?",
+  "options": [
+   "Badr",
+   "Uhud",
+   "Khandaq",
+   "Hunain"
+  ],
+  "correct": 2,
+  "explanation": "Khandaq is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-030",
+  "subject": "Islamic Studies",
+  "topic": "Seerah: Places",
+  "difficulty": "Easy",
+  "question": "Where did the first revelation come to the Prophet (PBUH)?",
+  "options": [
+   "Cave Hira",
+   "Madinah",
+   "Taif",
+   "Jerusalem"
+  ],
+  "correct": 0,
+  "explanation": "Cave Hira is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-031",
+  "subject": "Islamic Studies",
+  "topic": "Seerah: Places",
+  "difficulty": "Easy",
+  "question": "Where was the Prophet (PBUH) born?",
+  "options": [
+   "Taif",
+   "Jerusalem",
+   "Makkah",
+   "Cave Hira"
+  ],
+  "correct": 2,
+  "explanation": "Makkah is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-032",
+  "subject": "Islamic Studies",
+  "topic": "Seerah: Places",
+  "difficulty": "Easy",
+  "question": "To which city did the Prophet (PBUH) migrate?",
+  "options": [
+   "Madinah",
+   "Taif",
+   "Jerusalem",
+   "Makkah"
+  ],
+  "correct": 0,
+  "explanation": "Madinah is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-033",
+  "subject": "Islamic Studies",
+  "topic": "Seerah: Places",
+  "difficulty": "Easy",
+  "question": "Where is Masjid al-Aqsa located?",
+  "options": [
+   "Madinah",
+   "Cave Hira",
+   "Taif",
+   "Jerusalem"
+  ],
+  "correct": 3,
+  "explanation": "Jerusalem is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-034",
+  "subject": "Islamic Studies",
+  "topic": "Seerah: Places",
+  "difficulty": "Easy",
+  "question": "Where was the Prophet (PBUH) buried?",
+  "options": [
+   "Madinah",
+   "Makkah",
+   "Cave Hira",
+   "Jerusalem"
+  ],
+  "correct": 0,
+  "explanation": "Madinah is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-035",
+  "subject": "Islamic Studies",
+  "topic": "Islamic Calendar",
+  "difficulty": "Easy",
+  "question": "In which month do Muslims fast?",
+  "options": [
+   "Shawwal",
+   "Rajab",
+   "Ramadan",
+   "Muharram"
+  ],
+  "correct": 2,
+  "explanation": "Ramadan is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-036",
+  "subject": "Islamic Studies",
+  "topic": "Islamic Calendar",
+  "difficulty": "Easy",
+  "question": "Hajj is performed in which month?",
+  "options": [
+   "Dhul Hijjah",
+   "Muharram",
+   "Shawwal",
+   "Ramadan"
+  ],
+  "correct": 0,
+  "explanation": "Dhul Hijjah is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-037",
+  "subject": "Islamic Studies",
+  "topic": "Islamic Calendar",
+  "difficulty": "Easy",
+  "question": "Eid-ul-Fitr falls in which month?",
+  "options": [
+   "Ramadan",
+   "Shawwal",
+   "Dhul Hijjah",
+   "Rajab"
+  ],
+  "correct": 1,
+  "explanation": "Shawwal is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-038",
+  "subject": "Islamic Studies",
+  "topic": "Islamic Calendar",
+  "difficulty": "Easy",
+  "question": "The Islamic new year begins with which month?",
+  "options": [
+   "Dhul Hijjah",
+   "Shawwal",
+   "Rajab",
+   "Muharram"
+  ],
+  "correct": 3,
+  "explanation": "Muharram is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-039",
+  "subject": "Islamic Studies",
+  "topic": "Islamic Calendar",
+  "difficulty": "Easy",
+  "question": "The Quran was first revealed in which month?",
+  "options": [
+   "Muharram",
+   "Dhul Hijjah",
+   "Shawwal",
+   "Ramadan"
+  ],
+  "correct": 3,
+  "explanation": "Ramadan is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "ISL-040",
+  "subject": "Islamic Studies",
+  "topic": "Islamic Calendar",
+  "difficulty": "Easy",
+  "question": "Eid-ul-Adha is celebrated in which month?",
+  "options": [
+   "Shawwal",
+   "Muharram",
+   "Ramadan",
+   "Dhul Hijjah"
+  ],
+  "correct": 3,
+  "explanation": "Dhul Hijjah is correct.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-001",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"آسمان\" کا مترادف کیا ہے؟",
+  "options": [
+   "آفتاب",
+   "قوت",
+   "فلک",
+   "مسرت"
+  ],
+  "correct": 2,
+  "explanation": "آسمان کا مترادف فلک ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-002",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"خوشی\" کا مترادف کیا ہے؟",
+  "options": [
+   "مرض",
+   "فلک",
+   "مسرت",
+   "مشقت"
+  ],
+  "correct": 2,
+  "explanation": "خوشی کا مترادف مسرت ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-003",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"دوست\" کا مترادف کیا ہے؟",
+  "options": [
+   "یار",
+   "قمر",
+   "لڑائی",
+   "نار"
+  ],
+  "correct": 0,
+  "explanation": "دوست کا مترادف یار ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-004",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"پانی\" کا مترادف کیا ہے؟",
+  "options": [
+   "مشقت",
+   "آب",
+   "قمر",
+   "مرض"
+  ],
+  "correct": 1,
+  "explanation": "پانی کا مترادف آب ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-005",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"آگ\" کا مترادف کیا ہے؟",
+  "options": [
+   "نار",
+   "لڑائی",
+   "مسرت",
+   "حوصلہ"
+  ],
+  "correct": 0,
+  "explanation": "آگ کا مترادف نار ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-006",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"سورج\" کا مترادف کیا ہے؟",
+  "options": [
+   "باد",
+   "نار",
+   "یار",
+   "آفتاب"
+  ],
+  "correct": 3,
+  "explanation": "سورج کا مترادف آفتاب ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-007",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"چاند\" کا مترادف کیا ہے؟",
+  "options": [
+   "مشقت",
+   "قمر",
+   "شب",
+   "مسرت"
+  ],
+  "correct": 1,
+  "explanation": "چاند کا مترادف قمر ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-008",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"ہوا\" کا مترادف کیا ہے؟",
+  "options": [
+   "مشقت",
+   "مرض",
+   "آب",
+   "باد"
+  ],
+  "correct": 3,
+  "explanation": "ہوا کا مترادف باد ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-009",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"راستہ\" کا مترادف کیا ہے؟",
+  "options": [
+   "مرض",
+   "آب",
+   "ڈر",
+   "راہ"
+  ],
+  "correct": 3,
+  "explanation": "راستہ کا مترادف راہ ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-010",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"گھر\" کا مترادف کیا ہے؟",
+  "options": [
+   "راہ",
+   "مکان",
+   "نار",
+   "باد"
+  ],
+  "correct": 1,
+  "explanation": "گھر کا مترادف مکان ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-011",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"بادشاہ\" کا مترادف کیا ہے؟",
+  "options": [
+   "قوت",
+   "آب",
+   "سلطان",
+   "مرض"
+  ],
+  "correct": 2,
+  "explanation": "بادشاہ کا مترادف سلطان ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-012",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"دل\" کا مترادف کیا ہے؟",
+  "options": [
+   "نار",
+   "مشقت",
+   "قلب",
+   "ڈر"
+  ],
+  "correct": 2,
+  "explanation": "دل کا مترادف قلب ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-013",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"آنکھ\" کا مترادف کیا ہے؟",
+  "options": [
+   "لڑائی",
+   "قوت",
+   "چشم",
+   "نار"
+  ],
+  "correct": 2,
+  "explanation": "آنکھ کا مترادف چشم ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-014",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"جنگ\" کا مترادف کیا ہے؟",
+  "options": [
+   "مسرت",
+   "لڑائی",
+   "فلک",
+   "آب"
+  ],
+  "correct": 1,
+  "explanation": "جنگ کا مترادف لڑائی ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-015",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"خوف\" کا مترادف کیا ہے؟",
+  "options": [
+   "ڈر",
+   "مسرت",
+   "راہ",
+   "قلب"
+  ],
+  "correct": 0,
+  "explanation": "خوف کا مترادف ڈر ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-016",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"محنت\" کا مترادف کیا ہے؟",
+  "options": [
+   "چشم",
+   "آفتاب",
+   "شب",
+   "مشقت"
+  ],
+  "correct": 3,
+  "explanation": "محنت کا مترادف مشقت ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-017",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"رات\" کا مترادف کیا ہے؟",
+  "options": [
+   "شب",
+   "قلب",
+   "سلطان",
+   "لڑائی"
+  ],
+  "correct": 0,
+  "explanation": "رات کا مترادف شب ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-018",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"ہمت\" کا مترادف کیا ہے؟",
+  "options": [
+   "حوصلہ",
+   "قوت",
+   "قمر",
+   "فلک"
+  ],
+  "correct": 0,
+  "explanation": "ہمت کا مترادف حوصلہ ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-019",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"طاقت\" کا مترادف کیا ہے؟",
+  "options": [
+   "قوت",
+   "آفتاب",
+   "مرض",
+   "فلک"
+  ],
+  "correct": 0,
+  "explanation": "طاقت کا مترادف قوت ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-020",
+  "subject": "Urdu",
+  "topic": "مترادف الفاظ",
+  "difficulty": "Easy",
+  "question": "\"بیماری\" کا مترادف کیا ہے؟",
+  "options": [
+   "حوصلہ",
+   "مرض",
+   "مشقت",
+   "راہ"
+  ],
+  "correct": 1,
+  "explanation": "بیماری کا مترادف مرض ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-021",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"علم\" کا متضاد کیا ہے؟",
+  "options": [
+   "کڑوا",
+   "جہل",
+   "گرمی",
+   "ہار"
+  ],
+  "correct": 1,
+  "explanation": "علم کا متضاد جہل ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-022",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"روشن\" کا متضاد کیا ہے؟",
+  "options": [
+   "ذلت",
+   "تاریک",
+   "غریب",
+   "باہر"
+  ],
+  "correct": 1,
+  "explanation": "روشن کا متضاد تاریک ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-023",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"صبح\" کا متضاد کیا ہے؟",
+  "options": [
+   "جھوٹ",
+   "ذلت",
+   "ہار",
+   "شام"
+  ],
+  "correct": 3,
+  "explanation": "صبح کا متضاد شام ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-024",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"دوست\" کا متضاد کیا ہے؟",
+  "options": [
+   "کمزور",
+   "گرمی",
+   "دشمن",
+   "غریب"
+  ],
+  "correct": 2,
+  "explanation": "دوست کا متضاد دشمن ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-025",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"سچ\" کا متضاد کیا ہے؟",
+  "options": [
+   "جھوٹ",
+   "شام",
+   "ذلت",
+   "چھوٹا"
+  ],
+  "correct": 0,
+  "explanation": "سچ کا متضاد جھوٹ ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-026",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"امیر\" کا متضاد کیا ہے؟",
+  "options": [
+   "ذلت",
+   "جہل",
+   "دشمن",
+   "غریب"
+  ],
+  "correct": 3,
+  "explanation": "امیر کا متضاد غریب ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-027",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"اندر\" کا متضاد کیا ہے؟",
+  "options": [
+   "ذلت",
+   "غم",
+   "انجام",
+   "باہر"
+  ],
+  "correct": 3,
+  "explanation": "اندر کا متضاد باہر ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-028",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"اوپر\" کا متضاد کیا ہے؟",
+  "options": [
+   "شام",
+   "غریب",
+   "نیچے",
+   "جھوٹ"
+  ],
+  "correct": 2,
+  "explanation": "اوپر کا متضاد نیچے ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-029",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"آغاز\" کا متضاد کیا ہے؟",
+  "options": [
+   "کڑوا",
+   "انجام",
+   "گرمی",
+   "تاریک"
+  ],
+  "correct": 1,
+  "explanation": "آغاز کا متضاد انجام ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-030",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"زندگی\" کا متضاد کیا ہے؟",
+  "options": [
+   "باہر",
+   "موت",
+   "کمزور",
+   "ذلت"
+  ],
+  "correct": 1,
+  "explanation": "زندگی کا متضاد موت ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-031",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"خوشی\" کا متضاد کیا ہے؟",
+  "options": [
+   "ذلت",
+   "مشکل",
+   "غم",
+   "کڑوا"
+  ],
+  "correct": 2,
+  "explanation": "خوشی کا متضاد غم ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-032",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"عزت\" کا متضاد کیا ہے؟",
+  "options": [
+   "ذلت",
+   "جہل",
+   "تنگ",
+   "کڑوا"
+  ],
+  "correct": 0,
+  "explanation": "عزت کا متضاد ذلت ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-033",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"سردی\" کا متضاد کیا ہے؟",
+  "options": [
+   "انجام",
+   "غریب",
+   "گرمی",
+   "شام"
+  ],
+  "correct": 2,
+  "explanation": "سردی کا متضاد گرمی ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-034",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"وسیع\" کا متضاد کیا ہے؟",
+  "options": [
+   "انجام",
+   "جھوٹ",
+   "تنگ",
+   "جہل"
+  ],
+  "correct": 2,
+  "explanation": "وسیع کا متضاد تنگ ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-035",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"بڑا\" کا متضاد کیا ہے؟",
+  "options": [
+   "تاریک",
+   "چھوٹا",
+   "جھوٹ",
+   "ذلت"
+  ],
+  "correct": 1,
+  "explanation": "بڑا کا متضاد چھوٹا ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-036",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"نیا\" کا متضاد کیا ہے؟",
+  "options": [
+   "پرانا",
+   "چھوٹا",
+   "باہر",
+   "غم"
+  ],
+  "correct": 0,
+  "explanation": "نیا کا متضاد پرانا ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-037",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"میٹھا\" کا متضاد کیا ہے؟",
+  "options": [
+   "غم",
+   "دشمن",
+   "مشکل",
+   "کڑوا"
+  ],
+  "correct": 3,
+  "explanation": "میٹھا کا متضاد کڑوا ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-038",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"طاقتور\" کا متضاد کیا ہے؟",
+  "options": [
+   "غریب",
+   "ذلت",
+   "تاریک",
+   "کمزور"
+  ],
+  "correct": 3,
+  "explanation": "طاقتور کا متضاد کمزور ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-039",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"آسان\" کا متضاد کیا ہے؟",
+  "options": [
+   "مشکل",
+   "غم",
+   "غریب",
+   "تنگ"
+  ],
+  "correct": 0,
+  "explanation": "آسان کا متضاد مشکل ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "URD-040",
+  "subject": "Urdu",
+  "topic": "متضاد الفاظ",
+  "difficulty": "Easy",
+  "question": "\"جیت\" کا متضاد کیا ہے؟",
+  "options": [
+   "ذلت",
+   "ہار",
+   "کمزور",
+   "دشمن"
+  ],
+  "correct": 1,
+  "explanation": "جیت کا متضاد ہار ہے۔",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-001",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "12 × 3 = ?",
+  "options": [
+   "37",
+   "38",
+   "36",
+   "35"
+  ],
+  "correct": 2,
+  "explanation": "12 × 3 = 36.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-002",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "What is 20% of 300?",
+  "options": [
+   "62",
+   "59",
+   "58",
+   "60"
+  ],
+  "correct": 3,
+  "explanation": "20% of 300 = 60.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-003",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "18² − 5² = ?",
+  "options": [
+   "297",
+   "301",
+   "309",
+   "299"
+  ],
+  "correct": 3,
+  "explanation": "324 − 25 = 299.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-004",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "If 6x + 21 = 51, find x.",
+  "options": [
+   "4",
+   "7",
+   "5",
+   "6"
+  ],
+  "correct": 2,
+  "explanation": "6x = 30, so x = 5.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-005",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "Find the average of 22, 24, 26 and 28.",
+  "options": [
+   "24",
+   "27",
+   "25",
+   "23"
+  ],
+  "correct": 2,
+  "explanation": "Sum = 100; ÷ 4 = 25.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-006",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "A rectangle is 27 m long and 10 m wide. What is its area (m²)?",
+  "options": [
+   "270",
+   "268",
+   "272",
+   "280"
+  ],
+  "correct": 0,
+  "explanation": "27 × 10 = 270.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-007",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "What is the perimeter (cm) of a square with side 30 cm?",
+  "options": [
+   "120",
+   "121",
+   "122",
+   "119"
+  ],
+  "correct": 0,
+  "explanation": "4 × 30 = 120.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-008",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "A car travels 235 km in 5 hours. What is its speed (km/h)?",
+  "options": [
+   "46",
+   "49",
+   "45",
+   "47"
+  ],
+  "correct": 3,
+  "explanation": "235 ÷ 5 = 47.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-009",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "36 × 4 = ?",
+  "options": [
+   "146",
+   "144",
+   "142",
+   "154"
+  ],
+  "correct": 1,
+  "explanation": "36 × 4 = 144.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-010",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "What is 20% of 780?",
+  "options": [
+   "158",
+   "155",
+   "157",
+   "156"
+  ],
+  "correct": 3,
+  "explanation": "20% of 780 = 156.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-011",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "42² − 6² = ?",
+  "options": [
+   "1730",
+   "1727",
+   "1728",
+   "1726"
+  ],
+  "correct": 2,
+  "explanation": "1764 − 36 = 1728.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-012",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "If 7x + 45 = 73, find x.",
+  "options": [
+   "14",
+   "4",
+   "2",
+   "6"
+  ],
+  "correct": 1,
+  "explanation": "7x = 28, so x = 4.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-013",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "Find the average of 46, 48, 50 and 52.",
+  "options": [
+   "49",
+   "51",
+   "48",
+   "50"
+  ],
+  "correct": 0,
+  "explanation": "Sum = 196; ÷ 4 = 49.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-014",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "A rectangle is 51 m long and 11 m wide. What is its area (m²)?",
+  "options": [
+   "563",
+   "559",
+   "561",
+   "560"
+  ],
+  "correct": 2,
+  "explanation": "51 × 11 = 561.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-015",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "What is the perimeter (cm) of a square with side 54 cm?",
+  "options": [
+   "226",
+   "218",
+   "214",
+   "216"
+  ],
+  "correct": 3,
+  "explanation": "4 × 54 = 216.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-016",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "A car travels 275 km in 5 hours. What is its speed (km/h)?",
+  "options": [
+   "56",
+   "57",
+   "55",
+   "54"
+  ],
+  "correct": 2,
+  "explanation": "275 ÷ 5 = 55.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-017",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "60 × 5 = ?",
+  "options": [
+   "298",
+   "299",
+   "300",
+   "302"
+  ],
+  "correct": 2,
+  "explanation": "60 × 5 = 300.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-018",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "What is 20% of 1260?",
+  "options": [
+   "252",
+   "262",
+   "250",
+   "254"
+  ],
+  "correct": 0,
+  "explanation": "20% of 1260 = 252.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-019",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "66² − 7² = ?",
+  "options": [
+   "4307",
+   "4309",
+   "4308",
+   "4306"
+  ],
+  "correct": 0,
+  "explanation": "4356 − 49 = 4307.",
+  "source": "LAT-Style Practice",
+  "year": null
+ },
+ {
+  "id": "MAT-020",
+  "subject": "Mathematics",
+  "topic": "Basic Arithmetic & Algebra",
+  "difficulty": "Easy",
+  "question": "If 8x + 69 = 93, find x.",
+  "options": [
+   "2",
+   "5",
+   "3",
+   "1"
+  ],
+  "correct": 2,
+  "explanation": "8x = 24, so x = 3.",
+  "source": "LAT-Style Practice",
+  "year": null
+ }
+]
